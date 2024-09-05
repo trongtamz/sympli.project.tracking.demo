@@ -1,0 +1,17 @@
+{
+  "welcome": {
+    "title": "Welcome to {{app}}"
+  },
+  "keywords": "Keywords",
+  "url": "Url",
+  "engine": "Engine",
+  "defaultEngine": "Google",
+  "count": "Count",
+  "message": {
+    "badRequest": "Bad Request.",
+    "serviceUnavailable": "The webapp has been inactive, please contact your administrator.",
+    "internalError": "An unexpected error occurred.",
+    "unexpectedError": "An unexpected error occurred.",
+    "success": "Success"
+  }
+}
